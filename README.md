@@ -35,14 +35,14 @@ Email: panyawat.tun2548@gmail.com
 
 🖼️ 2. Picture
 
-GITGIF.gif
+![](https://github.com/Panapan-Srikaew/Git-Exercise/blob/main/Picture/Quote.png?raw=true)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![](https://github.com/Panapan-Srikaew/Git-Exercise/blob/main/Animation/GITGIF.gif?raw=true)
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+Revision control gives us the confidence to move forward because we can always trace our changes and return what worked.
 
 🎬 5. Video Lecture
