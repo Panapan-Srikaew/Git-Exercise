@@ -39,11 +39,11 @@ Email: panyawat.tun2548@gmail.com
 
 🎞️ 3. Animation
 
-![](https://youtu.be/alfmHTYsEU4?si=-IQnraLgQOw7clwa)
+![](https://github.com/Panapan-Srikaew/Git-Exercise/blob/Animation/GITGIF.gif)
 
 💬 4. Quote
 
 Revision control gives us the confidence to move forward because we can always trace our changes and return what worked.
 
 🎬 5. Video Lecture
-![](https://youtu.be/alfmHTYsEU4?si=yoVq9CE3p-j3QOph)
+[![Watch the video](https://img.youtube.com/vi/alfmHTYsEU4/0.jpg)](https://youtu.be/alfmHTYsEU4)
