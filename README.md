@@ -35,7 +35,7 @@ Email: panyawat.tun2548@gmail.com
 
 🖼️ 2. Picture
 
-![]([Quote.jpg](https://github.com/Panapan-Srikaew/Git-Exercise/blob/35c983c1f6af648c106cb38ca1b64bf4df1ce57d/GITGIF.gif))
+![](https://github.com/Panapan-Srikaew/Git-Exercise/blob/Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
