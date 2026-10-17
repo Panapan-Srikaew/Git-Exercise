@@ -39,7 +39,7 @@ Email: panyawat.tun2548@gmail.com
 
 🎞️ 3. Animation
 
-![](https://github.com/Panapan-Srikaew/Git-Exercise/blob/main/Animation/GITGIF.gif?raw=true)
+![](https://github.com/Panapan-Srikaew/Git-Exercise/blob/Animation/GITGIF.gif)
 
 💬 4. Quote
 
