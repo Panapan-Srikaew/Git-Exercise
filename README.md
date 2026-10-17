@@ -35,7 +35,7 @@ Email: panyawat.tun2548@gmail.com
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+GITGIF.gif
 
 🎞️ 3. Animation
 
